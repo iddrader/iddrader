@@ -1,7 +1,3 @@
-Hi! My name is Sergei and I'm a frontend-developer.
-
-I have a lot of small JavaScript projects and some bigger React ones. 
-
 <div align="left">
 	<h5 align="left">Languages and Tools:</h5>
 	<p align="left"> 
