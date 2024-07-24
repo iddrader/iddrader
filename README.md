@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/34f7efdb-6669-4a5c-bff2-a87fed966098)
+
+
 <div align="left">
 	<h5 align="left">Languages and Tools:</h5>
 	<p align="left"> 
@@ -9,9 +12,8 @@
 		</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 	</p>
 
-  
   <h5>📖  What I am currently learning</h5>
- 		<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"></a>
+ 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"></a>
  
   <h5>🔮 What I am interested in learning in the future</h5>
 	<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> </p>
